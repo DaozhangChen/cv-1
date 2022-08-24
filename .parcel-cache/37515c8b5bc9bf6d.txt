@@ -1,0 +1,10 @@
+9
+31C:\Users\86158\Desktop\cv-1\src133058078441900305 1
+32C:\Users\86158\Desktop\cv-1\dist133058239805946928 1
+54C:\Users\86158\Desktop\cv-1\dist\index.de158e3a.js.map133058239805936934 0
+43C:\Users\86158\Desktop\cv-1\dist\index.html133058237815873081 0
+53C:\Users\86158\Desktop\cv-1\dist\cv-1.59712999.js.map133058129730981785 0
+42C:\Users\86158\Desktop\cv-1\src\index.html133058237814815948 0
+39C:\Users\86158\Desktop\cv-1\src\main.js133058239805189019 0
+50C:\Users\86158\Desktop\cv-1\dist\index.de158e3a.js133058239805916990 0
+49C:\Users\86158\Desktop\cv-1\dist\cv-1.59712999.js133058129730951859 0
